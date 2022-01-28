@@ -10,16 +10,16 @@
 - It allows non-technical users to create dashboard.
 
 ## Best Features of Tableau
-> Data Blending
-> Real Time Analysis
-> Collaboration of Data
-> Does not require any tech skills
+> Data Blending  
+> Real Time Analysis  
+> Collaboration of Data  
+> Does not require any tech skills  
 
 ## Why Tableau?
-} Flexible 
-} Intuitive platform
-} Interactive Visuals
-} Quick production Time
+} Flexible   
+} Intuitive platform  
+} Interactive Visuals  
+} Quick production Time  
 
 # Data Visualization
 
@@ -28,4 +28,8 @@ Representing the data in pictorial form.
 ## Scope
 Can be used for informational analysis, geospatial analysis, scientific analytics, knowledge discovery, data management and knowledge representation, etc.....
 ## How it works?
-| `import DataSet` | `Analyse the data` | **Represent** what you analysed |
+| `import DataSet` | `Analyse the data` | **Represent** what you analysed |  
+  
+[Day 2](Day2.md)    
+  
+[Table of contents](../README.md)
