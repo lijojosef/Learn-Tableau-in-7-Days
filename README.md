@@ -8,7 +8,7 @@
 
 - [Day 1](Contents/Day1.md)
 
-- Day 2
+- [Day 2](Contents/Day2.md)
 
 - Day 3
   
