@@ -57,6 +57,6 @@ Used to highlight specific sub category among all others
 Make designs for specific devices. 
 
 
-[Day 3](#)    
+[Day 3](Day3.md)    
   
 [Table of contents](../README.md)
