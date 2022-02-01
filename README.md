@@ -10,7 +10,7 @@
 
 - [Day 2](Contents/Day2.md)
 
-- Day 3
+- [Day 3](Contents/Day3.md)
   
 - Day 4
   
